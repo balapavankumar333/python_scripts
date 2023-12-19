@@ -1,6 +1,6 @@
-# Uppercase Letter Counter
-
 ## Overview
+
+# Uppercase Letter Counter
 
 This Python script (`count_letter.py`) reads the contents of a file named `Sample.txt` and counts the number of uppercase letters in the file. The result is then printed.
 
